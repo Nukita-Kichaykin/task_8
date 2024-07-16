@@ -1,11 +1,3 @@
-function toggleCollapse() {
-    const content = document.getElementById('content');
-    if (content.classList.contains('collapse')) {
-        content.classList.remove('collapse');
-    } else {
-        content.classList.add('collapse');
-    }
-}
 
 let minValue = parseInt(prompt('Минимальное знание числа для игры','-999'));
 let maxValue = parseInt(prompt('Максимальное знание числа для игры','999'));
