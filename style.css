@@ -1,0 +1,29 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#btnRetry {
+    text-decoration: solid;
+    color: rgb(0, 0, 0);
+    border-radius: 15%;
+    font-size: 200%; font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+#text-center {
+    background-image: url(https://bogatyr.club/uploads/posts/2023-01/1674929380_bogatyr-club-p-krasivii-fon-dlya-oblozhki-fon-krasivo-1.jpg); 
+    border-radius: 5%;
+}
+.m-0{
+    text-transform: uppercase; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#btnLess{
+    border-radius: 25%;
+}
+#btnEqual{
+    border-radius: 25%;
+    margin: 1%;
+}
+#btnOver{
+    border-radius: 25%;
+}
